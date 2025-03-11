@@ -15,8 +15,7 @@ A criação deste ERP para barbearias se justifica pela necessidade de moderniza
 ## Funcionalidades Principais
 
 - Gestão de Agendamentos: Interface intuitiva para marcação e gerenciamento de horários.
-- Controle Financeiro: Ferramentas para monitoramento de receitas, despesas e geração de relatórios financeiros.
-- Gestão de Estoque: Controle de inventário de produtos, com alertas para reposição.
+- Controle Financeiro: Ferramentas para monitoramento de receitas.
 - Fidelização de Clientes: Sistema de pontos e promoções para clientes frequentes.
 
 ## Tecnologias Utilizadas
