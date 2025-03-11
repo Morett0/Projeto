@@ -24,4 +24,4 @@ A criação deste ERP para barbearias se justifica pela necessidade de moderniza
 
 ## Informações Adicionais
 
-Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software do Centro Universitário UniMetrocamp.
+**Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software do Centro Universitário UniMetrocamp.**
