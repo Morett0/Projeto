@@ -22,3 +22,7 @@ A criação deste ERP para barbearias se justifica pela necessidade de moderniza
 ## Tecnologias Utilizadas
 
 - Flask
+
+## Informações Adicionais
+
+Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software do Centro Universitário UniMetrocamp.
